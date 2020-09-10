@@ -1,0 +1,9 @@
+Package: com.paigu.tb
+Name: 百度贴吧-
+Depends: mobilesubstrate
+Version: 1.6.0
+Architecture: iphoneos-arm
+Description: （适用至最新11.8.6，修复视频下方简介布局错乱的问题）移除：首页顶部横幅推广、首页的直播内容、帖子内部吧名显示、帖子内部直播推荐；一条方法干掉feed流广告和帖子内部广告以及去除启动广告
+Author: 糖醋丶炒排骨
+Maintainer: 糖醋丶炒排骨
+Section: Tweaks
